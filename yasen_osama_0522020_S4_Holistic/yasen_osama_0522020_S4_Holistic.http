@@ -1,0 +1,6 @@
+@yasen_osama_0522020_S4_Holistic_HostAddress = http://localhost:5074
+
+GET {{yasen_osama_0522020_S4_Holistic_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
